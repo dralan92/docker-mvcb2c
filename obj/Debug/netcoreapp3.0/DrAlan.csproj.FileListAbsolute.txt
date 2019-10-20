@@ -44,3 +44,5 @@ C:\Users\user\source\repos\DrAlan\DrAlan\obj\Debug\netcoreapp3.0\DrAlan.Views.pd
 C:\Users\user\source\repos\DrAlan\DrAlan\obj\Debug\netcoreapp3.0\DrAlan.csproj.CopyComplete
 C:\Users\user\source\repos\DrAlan\DrAlan\obj\Debug\netcoreapp3.0\DrAlan.dll
 C:\Users\user\source\repos\DrAlan\DrAlan\obj\Debug\netcoreapp3.0\DrAlan.pdb
+C:\Users\user\source\repos\DrAlan\DrAlan\obj\Debug\netcoreapp3.0\DrAlan.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\DrAlan\DrAlan\obj\Debug\netcoreapp3.0\DrAlan.MvcApplicationPartsAssemblyInfo.cache
